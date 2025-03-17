@@ -1,0 +1,1 @@
+I learnt how to det up git for collabarating by creating feature branches and then merging them back to the main branch. I also learnt how to make a readme file and simple mark up. 
